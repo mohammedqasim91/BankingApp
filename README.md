@@ -27,7 +27,7 @@ https://lucid.app/lucidchart/5f19cb4a-6bdc-4c49-b0cd-208382ed181a/edit?beaconFlo
 - DELETE /api/accounts/{id} - Delete an account
 
 ## Extra Links
-- [Trello Board]((https://trello.com/b/aQvIufUm/ironhack-final-project))
+- [Trello Board][((https://trello.com/b/aQvIufUm/ironhack-final-project))](https://trello.com/b/aQvIufUm/ironhack-final-project)
 - [Presentation Slides](https://calendly.com/salvatore-corsaro-ironhack/15min?month=2024-07)
 
 ## Future Work
