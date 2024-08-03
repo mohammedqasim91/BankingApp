@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/bankingapp_db
+    username: root
+    password: Winsen15!!!!
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
